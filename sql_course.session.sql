@@ -126,4 +126,3 @@ RESULTS
   }
 ]
 */
-SELECT * from skills_job_dim
